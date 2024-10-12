@@ -2,18 +2,18 @@
 
 ## Раздел 1. Программирование
 - [4. Основы программирования](Zan_4.ipynb)
-- [5. Списки и словари](Programming/Lists_and_Dictionaries.ipynb)
-- [6. Условия и циклы](Programming/Conditions_and_Loops.ipynb)
-- [7. Анализируем данные и строим графики](Programming/Data_Analysis_and_Plots.ipynb)
+- [5. Списки и словари](Zan_5.ipynb)
+- [6. Условия и циклы](Джамалова_06_If_and_For.ipynb)
+- [7. Анализируем данные и строим графики](Джамалова_07_DataAnalysis.ipynb)
 
 ## Раздел 2. Математика
-- [8. Описательная статистика](Mathematics/Descriptive_Statistics.ipynb)
-- [9. Статистический вывод](Mathematics/Statistical_Inference.ipynb)
+- [8. Описательная статистика](Джамалова_08_DescriptiveStatistics.ipynb)
+- [9. Статистический вывод](Джамалова_09_InferentialStatistics.ipynb)
 - [10. Взаимосвязь переменных](Mathematics/Variable_Relationships.ipynb)
-- [11. Оптимизация: поиск идеальных весов](Mathematics/Optimization_Find_Ideal_Weights.ipynb)
-- [12. Векторы и матрицы](Mathematics/Vectors_and_Matrices.ipynb)
-- [13. На каких данных обучать модель](Mathematics/Training_Data_Selection.ipynb)
+- [11. Оптимизация: поиск идеальных весов](Джамалова_11_Optimization.ipynb)
+- [12. Векторы и матрицы](Джамалова_12_VectorsMatrices.ipynb)
+- [13. На каких данных обучать модель](Джамалова_13_TrainTestSplit.ipynb)
 
 ## Раздел 3. Первые модели
-- [14. Регрессия](First_Models/Regression.ipynb)
+- [14. Регрессия](Джамалова_14_Regression.ipynb)
 
