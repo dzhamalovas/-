@@ -1,7 +1,7 @@
 # ML
 # koroteevmv
 # Практикум по машинному обучению на Python (часть 2)
-- [3.1. Полиноминальные модели](ML3.1_polynomial_features.ipynb)
+- [3.1. Полиноминальные модели](ML3_1_polynomial_features.ipynb)
 - [3.2. Метод опорных векторов](ML3_2_svm.ipynb)
 - [3.3. Перцептрон](ML3_3_mlp.ipynb)
 - [3.4. Деревья решений](ML3_4_trees.ipynb)
